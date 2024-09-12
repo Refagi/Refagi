@@ -15,6 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refagi&show_icons=true&locale=en&layout=compact" alt="refagi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=refagi&show_icons=true&locale=en" alt="refagi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refagi&" alt="refagi" /></p>
