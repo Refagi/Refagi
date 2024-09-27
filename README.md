@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reno Faza Givaro</h1>
-<h3 align="center">Informatics students who love informatics,I learned a lot from this discord group https://discord.com/channels/@me/1282239175059312661/1282545161037021216</h3>
+<h3 align="center">Informatics students who love informatics,I learned a lot from this discord group <a href=https://discord.com/channels/@me/1282239175059312661/1282545161037021216>discord</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refagi&label=Profile%20views&color=0e75b6&style=flat" alt="refagi" /> </p>
 
